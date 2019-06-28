@@ -1,0 +1,10 @@
+1、先跑起来，然后再深入去了解它的原理和细节。
+
+创建一个gradle项目：引用netty-all
+
+dependencies {
+   compile group: 'io.netty', name: 'netty-all', version: '4.1.10.Final'
+}
+
+入门例子：
+
